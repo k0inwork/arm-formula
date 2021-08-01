@@ -1,0 +1,9 @@
+name: arm
+os: Debian, Ubuntu, Raspbian, RedHat, Fedora, CentOS, Oracle, Amazon, Suse, openSUSE, Gentoo, Funtoo, Arch, Manjaro, FreeBSD, OpenBSD, Windows
+os_family: Debian, Redhat, Suse, Arch, Gentoo, FreeBSD, Windows
+version: 1.9.0
+release: 1
+minimum_version: 2015.8
+summary: Formula for install arm
+description: Formula for installing arm
+top_level_dir: arm
